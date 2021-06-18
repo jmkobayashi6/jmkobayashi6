@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jmkobayashi6
+- 👋 Hi, I’m jmk4
 - 👀 I’m interested in water sustainability
-- 🌱 I’m currently learning in CS 50
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently advancing my technology skill sets in programming and data analytics
+- 💞️ I’m looking to collaborate on water sustainability operation software
 - 📫 How to reach me jmkobayashi6@gmail.com
 
 <!---
